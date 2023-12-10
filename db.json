@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ],
+  "employess": [
+    {
+      "fristname": "aya",
+      "lastname": "no",
+      "email": "sheereennosair1989@gmail.com",
+      "dob": "2023-12-11T22:00:00.000Z",
+      "gander": "Female",
+      "education": "",
+      "company": "facebook",
+      "exp": 15,
+      "package": 12,
+      "id": 1
+    },
+    {
+      "fristname": "ASMAA",
+      "lastname": "NI",
+      "email": "ayanosair856@gmail.comsh",
+      "dob": "2023-12-11T22:00:00.000Z",
+      "gander": "Female",
+      "education": "",
+      "company": "facebook",
+      "exp": "",
+      "package": 30,
+      "id": 3
+    },
+    {
+      "fristname": "MO",
+      "lastname": "FGHFG",
+      "email": "ayanosair856@gmail.com",
+      "dob": "2023-12-10T22:00:00.000Z",
+      "gander": "",
+      "education": "",
+      "company": "facebook",
+      "exp": "",
+      "package": 500,
+      "id": 4
+    }
+  ]
+}
